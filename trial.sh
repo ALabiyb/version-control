@@ -5,3 +5,5 @@
 # Date: 10/03/2024
 # Description: Learnign git 
 ###############
+
+x = a + b
